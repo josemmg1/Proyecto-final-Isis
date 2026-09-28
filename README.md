@@ -3,11 +3,11 @@
 ## Integrantes
 | Nombre | Rol |
 |---|---|
-| | Product Owner |
-| | Scrum Master |
-| | Development Team |
-| | Responsable de evidencias |
-| | Responsable de documentación |
+| Joe Mercado| Product Owner |
+| Juan Pablo Villalba| Scrum Master |
+| Jesus Arteaga, Carlos Salja, Jose Mercado, Juan Villalba| Development Team |
+| Jose Mercado| Responsable de evidencias |
+| Juan Pablo| Responsable de documentación |
 
 ## Información general
 - **Curso:** Introducción a la Ingeniería de Sistemas y Computación
