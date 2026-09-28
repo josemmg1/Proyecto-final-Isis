@@ -1,4 +1,4 @@
-# Problemas identificados (mínimo 3)
+# Problemas identificados 
 
 | # | Espacio | Usuario | Situación | Problema | Impacto | Oportunidad tecnológica |
 |---|---|---|---|---|---|---|
