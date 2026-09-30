@@ -12,4 +12,4 @@
 ## Daily 2 - fecha:
 | Integrante | ¿Qué hice desde el último Daily? | ¿Qué voy a hacer? | ¿Impedimentos? |
 |---|---|---|---|
-| | | | |
+|Carlos Salja |Realice el sprint-planning. |Voy a realizar el sprint-retrospective y el sprint-review. |No llegaba el correo de la invitación a la lista de que haceres.  |
