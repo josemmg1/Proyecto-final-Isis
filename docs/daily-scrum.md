@@ -9,7 +9,7 @@
 | | | | |
 
 
-## Daily 2 - fecha:
+## Daily 2 - fecha: 29/09/2026
 | Integrante | ¿Qué hice desde el último Daily? | ¿Qué voy a hacer? | ¿Impedimentos? |
 |---|---|---|---|
 | | | | |
