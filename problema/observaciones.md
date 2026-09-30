@@ -7,7 +7,7 @@
 |---|---|
 | ¿Quién utiliza el espacio? | Personas del publico: hombres mujeres, niños y niñas |
 | ¿Qué actividades realizan? | Realizan investigaciones historicas, buscan libros para leer, y hacen uso de los computadores de la sala de internet ya que muchos no cuentan con dispositivo personal|
-| ¿Cómo se realizan actualmente? | |
+| ¿Cómo se realizan actualmente? |De manera manual |
 | ¿Qué información utilizan? | Lo que tiene el CLENA para ofrecer|
 | ¿Cómo se almacena y consulta? | Hay espacios en los que se guardan registros fisicos y otros digitales|
 | ¿Qué procesos son manuales? | La actualizacion de muchos documentos y las asesorias a visitantes|
