@@ -11,11 +11,11 @@
 
 ## Información general
 - **Curso:** Introducción a la Ingeniería de Sistemas y Computación
-- **Espacio del CLENA estudiado:** (Biblioteca / Archivo Histórico / Biblioteca Infantil / Centro Interactivo de Memoria Urbana)
-- **Descripción breve del proyecto:** (2-3 líneas: qué problema observaron y qué proponen)
+- **Espacio del CLENA estudiado:** Biblioteca
+- **Descripción breve del proyecto:** Observamos una situacion problema en la sala internet y proponemos una solucion simple y permanente que abarca la mayoria de situaciones para solucionarla.
 
 ## Estructura del repositorio
 - `problema/` observaciones, problemas identificados y problema seleccionado
 - `propuesta/` propuesta de solución
 - `docs/` Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
-- `evidencias/` fotografías, videos y evidencias de Scrum
+- `evidencias/` fotografías de la visita y evidencias de Scrum
