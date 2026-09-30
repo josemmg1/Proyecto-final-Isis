@@ -13,3 +13,4 @@
 | Integrante | ¿Qué hice desde el último Daily? | ¿Qué voy a hacer? | ¿Impedimentos? |
 |---|---|---|---|
 | | | | |
+|Jose Mercado |Integre las evidencias al repositorio, termine de llenar la carpeta de problema/problema seleccionado luego de hacer la eleccion en el daily y empeze el informe final en word|Voy a terminar el informe con informacion restante y verificar la actualización del sprint retrospective y sprint review|Un integrante no esta haciendo su parte a tiempo |
