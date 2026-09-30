@@ -1,4 +1,4 @@
-# Nombre del proyecto
+# Visita CLENA
 
 ## Integrantes
 | Nombre | Rol |
