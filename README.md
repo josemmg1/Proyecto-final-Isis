@@ -6,7 +6,7 @@
 | Jose Mercado| Product Owner |
 | Juan Pablo Villalba| Scrum Master |
 | Jesus Arteaga, Carlos Salja, Jose Mercado, Juan Villalba| Development Team |
-| Jose Mercado| Responsable de evidencias |
+| Jose Mercado| Responsable de evidencias/documentacion |
 | Juan Pablo| Responsable de documentación |
 
 ## Información general
