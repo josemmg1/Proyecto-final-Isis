@@ -6,13 +6,13 @@
 |Jose Mercado |Presente las problematicas y elejimos la que solucionaremos |Voy a terminar de modificar los apartados de propuesta y evidencia en el git| Ninguno|
 |Jesus Arteaga|Escuche las problematicas y junto a mi equipo, llegamos a una conclusion y una asignacion de labores|Adelantare lo que me corresponde en el apartado de propuestas|Ninguno|
 |Carlos Salja |Vimos las problemáticas mostradas en la salida de campo |Voy a rellenar los documentos asignados  |Hubo una falla de luz en el barrio Miramar |
-| | | | |
+|Juan Pablo Villalba |Me informé sobre las problematicas y asignamos tareas |Me haré cargo de mis asignaciones |Ninguno |
 
 
 ## Daily 2 - fecha: 29/09/2026
 | Integrante | ¿Qué hice desde el último Daily? | ¿Qué voy a hacer? | ¿Impedimentos? |
 |---|---|---|---|
-| | | | |
+|Juan Pablo Villalba |compartimos adelantos individuales |seguiré realizando mis asignaciones |Me bloqueo el gmail para ingresar a github |
 |Jose Mercado |Integre las evidencias al repositorio, termine de llenar la carpeta de problema/problema seleccionado luego de hacer la eleccion en el daily y empeze el informe final en word|Voy a terminar el informe con informacion restante y verificar la actualización del sprint retrospective y sprint review|Un integrante no esta haciendo su parte a tiempo |
 |Jesus Arteaga |Escuche y observe los adelantos realizados hasta el momento del daily|Ayudare realizando o adelantando lo correspondido a mi persona|Ninguna|
 |Carlos Salja |Realice el sprint-planning. |Voy a realizar el sprint-retrospective y el sprint-review. |No llegaba el correo de la invitación a la lista de que haceres.  |
