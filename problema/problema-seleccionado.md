@@ -1,7 +1,7 @@
 # Problema seleccionado
 
-**Problema elegido (# de la tabla anterior):**
-**Justificación (por qué este y no los otros):**
+**Problema elegido (# de la tabla anterior):** #2, Falta de conocimiento sobre el uso de computadores (sala de internet)
+**Justificación (por qué este y no los otros):** Es el problema que vimos más directamente durante la visita y el que afecta a más personas a la vez, tanto a los usuarios como a la asistente de la sala. Además se puede solucionar con algo sencillo y de bajo costo, mientras que los otros dos necesitan cambiar sistemas que ya tiene el CLENA.
 
 ## Formulación (sin empezar por la tecnología)
 | Pregunta | Respuesta |

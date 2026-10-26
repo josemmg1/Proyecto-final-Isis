@@ -9,3 +9,16 @@
 | ¿Qué tecnología podría utilizarse? |Herramientas básicas de creación de páginas web, recursos visuales de apoyo (como capturas de pantalla, imágenes explicativas y videos cortos) ayudandonos de los navegadores de internet ya instalados en los computadores de la biblioteca.|
 
 Con base en lo observado en la sala de internet, consideramos que las guías más necesarias para el público (principalmente adultos mayores y personas con poca experiencia digital) serían, en orden de prioridad: el manejo del correo electrónico en Gmail (entrar a la cuenta, recuperar la contraseña, enviar y responder correos, adjuntar y descargar archivos y cerrar sesión); la realización de trámites en línea comunes como descargar certificados de la Registraduría, consultar el SISBÉN, pedir citas en la EPS o consultar la pensión en Colpensiones; la impresión y elaboración de documentos sencillos como cartas, hojas de vida o archivos PDF; la comunicación con familiares por medio de WhatsApp Web, Facebook y videollamadas; y nociones básicas de seguridad para reconocer estafas y proteger sus cuentas en computadores públicos. Herramientas más avanzadas como Excel quedarían en último lugar, ya que se espera que su uso sea menos frecuente. La lista esta sujeta a modificaciones y con el paso del tiempo el añadimiento de nuevos apartados.
+
+## Alternativas consideradas
+- **Talleres presenciales de computación:** ayudarían a los usuarios, pero dependen de horarios y de que haya alguien disponible para darlos, así que no resuelven las dudas del día a día.
+- **Guías impresas en cada computador:** son fáciles de hacer, pero se dañan o se pierden y son difíciles de actualizar cuando cambian las páginas.
+- **Más personal en la sala:** resolvería la sobrecarga, pero tiene un costo alto y no hace que los usuarios aprendan a hacer las cosas solos.
+
+Escogimos la página web porque está disponible siempre que el usuario abra el navegador, se puede actualizar fácilmente y le quita carga a la asistente sin necesitar más personal.
+
+## Plan de mantenimiento de los contenidos
+- La asistente de la sala anota las dudas que más le preguntan y que todavía no tienen guía.
+- Cada cierto tiempo (por ejemplo, cada semestre) el equipo encargado de la página revisa esas dudas y crea las guías nuevas.
+- También se revisan las guías existentes para actualizar las capturas cuando cambien las páginas (por ejemplo, si Gmail cambia su diseño).
+- Las guías que casi no se usen se pueden quitar o simplificar.
