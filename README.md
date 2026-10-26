@@ -18,4 +18,4 @@
 - `problema/` observaciones, problemas identificados y problema seleccionado
 - `propuesta/` propuesta de solución
 - `docs/` Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
-- `evidencias/` fotografías de la visita y evidencias de Scrum
+- `evidencias.md` enlaces a las fotografías de la visita y evidencias de Scrum
