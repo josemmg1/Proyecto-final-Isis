@@ -20,4 +20,7 @@ Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 
 | Historia | Estado |
 |---|---|
-| HU-01 | To Do |
+| HU-01 | Backlog |
+| HU-02 | Backlog |
+| HU-03 | Backlog |
+| HU-04 | Backlog |
