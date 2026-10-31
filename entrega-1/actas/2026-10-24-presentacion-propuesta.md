@@ -1,6 +1,6 @@
 # Acta de reunión: presentación de la propuesta al equipo de Backend
 
-- **Fecha:** 24 de octubre de 2026, 9:15 p. m.
+- **Fecha:** 24 de octubre de 2026, 9:15 UTC
 - **Medio:** videollamada en Microsoft Teams (grabada)
 - **Grabación:** [Ver grabación](https://uninorte-my.sharepoint.com/:v:/g/personal/fernandezjose_uninorte_edu_co/IQAuiW1e3tx_Qq3E-nixNP6WATlry4FWnJl875Nz52FCzPg)
 
