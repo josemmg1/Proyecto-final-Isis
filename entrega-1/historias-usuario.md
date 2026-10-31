@@ -13,6 +13,6 @@ Formato de cada historia:
 | ID | Historia | Prioridad | Puntos | Autor | Issue |
 |---|---|---|---|---|---|
 | HU-01 |Pantalla de inicio con categorías |Debe tener | |Jose Mercado | #1 [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/1#issue-6135537646)|
-| HU-02 | Seguir una guía paso a paso | Debe tener | | Jose Mercado |#2 |
-| HU-03 | Enviar una foto por correo | Debe tener | | Jose Mercado |#3 |
-| HU-04 | Que la gente resuelva sola lo básico | Debe tener | | Jose Mercado | #4|
+| HU-02 | Seguir una guía paso a paso | Debe tener | | Jose Mercado |#2 [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/2#issue-6135545137)|
+| HU-03 | Enviar una foto por correo | Debe tener | | Jose Mercado |#3 [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/3#issue-6135551104)|
+| HU-04 | Que la gente resuelva sola lo básico | Debe tener | | Jose Mercado | #4[ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/4#issue-6135555042)|
