@@ -15,7 +15,8 @@
 - `personas.md`: tipos de usuario con su evidencia de la visita
 - `historias-usuario.md`: lista de historias con enlace a cada Issue
 - `prototipo.md`: enlace de Figma y capturas de las pantallas
-- `actas/`: un archivo por reunión (AAAA-MM-DD-tema.md)
+- `actas/`: un archivo por reunión con el equipo de Backend (AAAA-MM-DD-tema.md)
+- `reuniones-equipo/`: registro de las reuniones internas del equipo
 - `evidencias.md`: enlaces a las grabaciones de Teams, por fecha
 - `alianza.md`: backlog, Sprint Review, Issues de feedback y estado de avance
 

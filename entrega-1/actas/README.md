@@ -1,4 +1,4 @@
-# Actas de reunión
+# Actas de reuniones con el equipo de Backend
 
 Un archivo por reunión con el nombre AAAA-MM-DD-tema.md. Cada acta incluye:
 
@@ -8,3 +8,5 @@ Un archivo por reunión con el nombre AAAA-MM-DD-tema.md. Cada acta incluye:
 - Temas tratados
 - Decisiones
 - Issues mencionados
+
+Las reuniones internas del equipo están en la carpeta `reuniones-equipo/`.
