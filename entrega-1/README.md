@@ -23,7 +23,7 @@
 
 | Integrante | Rol | Aportes |
 |---|---|---|
-| Jose Mercado | Product Owner | _Pendiente_ |
+| Jose Mercado | Product Owner | acta del 24/10, HU-01 a HU-04, personas y estructura de la carpeta |
 | Juan Pablo Villalba | Scrum Master | _Pendiente_ |
 | Jesús Arteaga | Development Team | _Pendiente_ |
 | Carlos Salja | Development Team | _Pendiente_ |
