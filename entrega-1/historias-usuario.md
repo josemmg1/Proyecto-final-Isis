@@ -12,4 +12,4 @@ Formato de cada historia:
 
 | ID | Historia | Prioridad | Puntos | Autor | Issue |
 |---|---|---|---|---|---|
-| HU-01 | | | | | |
+| HU-01 |Pantalla de inicio con categorías |Debe tener | |Jose Mercado | #1|
