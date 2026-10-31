@@ -1,6 +1,6 @@
 # Acta de reunión: presentación de la propuesta al equipo de Backend
 
-- **Fecha:** 24 de octubre de 2026, 9:15 UTC
+- **Fecha:** 24 de octubre de 2026, 4:15 p. m. (hora de Colombia)
 - **Medio:** videollamada en Microsoft Teams 
 - **Grabación:** [Ver grabación](https://uninorte-my.sharepoint.com/:v:/g/personal/fernandezjose_uninorte_edu_co/IQAuiW1e3tx_Qq3E-nixNP6WATlry4FWnJl875Nz52FCzPg)
 
@@ -30,4 +30,6 @@ Equipo de Desarrollo de Aplicaciones Web Backend:
 - El equipo de Backend aprobó la propuesta y el prototipo sin cambios.
 - El equipo de Backend informará sus avances a medida que construya la aplicación.
 
+## Issues mencionados
 
+- Ninguno.
