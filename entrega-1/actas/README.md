@@ -7,4 +7,3 @@ Un archivo por reunión con el nombre AAAA-MM-DD-tema.md. Cada acta incluye:
 - Enlace a la grabación de Teams
 - Temas tratados
 - Decisiones
-- Issues mencionados
