@@ -24,6 +24,6 @@ Formato de cada historia:
 | HU-10 | Buscar una guía | Debe tener | 8| Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/16) |
 | HU-11 | Decir si la guía me sirvió | Debería tener | 5| Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/17) |
 | HU-12 | Pedir ayuda a la asistente | Debe tener | 5| Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/18) |
-| HU-13 | Ver las dudas que todavía no tienen guía | Debe tener |13 | Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/19) |
+| HU-13 | Ver las dudas que todavía no tienen guía | Debe tener |8 | Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/19) |
 
 Resumen de prioridades: 9 «Debe tener», 2 «Debería tener» y 2 «Podría tener».
