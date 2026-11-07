@@ -2,7 +2,15 @@
 
 ## Backlog validado
 
-_Captura del tablero de GitHub Projects del equipo de Backend con las historias priorizadas._
+Tablero de GitHub Projects del equipo de Backend con las 13 historias priorizadas y estimadas (7 de noviembre de 2026). En cada tarjeta se ve la prioridad y los puntos:
+
+- **P0** = Debe tener
+- **P1** = Debería tener
+- **P2** = Podría tener
+
+<img src="img/backlog-1.png" alt="Backlog validado, parte 1" width="800">
+
+<img src="img/backlog-2.png" alt="Backlog validado, parte 2" width="800">
 
 ## Sprint Review
 
