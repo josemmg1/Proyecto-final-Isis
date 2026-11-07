@@ -2,12 +2,12 @@
 
 **Proyecto:** P1. Plataforma de autoaprendizaje digital (Sala de Internet)
 
-**Equipo de Backend aliado:** _Pendiente_
+**Equipo de Backend aliado:** José David Martínez Fernández, Alfredo de Jesús Tous Villarreal y Gabriel Omar Páez Rolong (Desarrollo de Aplicaciones Web Backend)
 
 ## Enlaces
 
-- Repositorio del equipo de Backend: _Pendiente_
-- Prototipo en Figma: _Pendiente_
+- Repositorio del equipo de Backend: [JoseD2021/PlataformaAutoaprendizaje](https://github.com/JoseD2021/PlataformaAutoaprendizaje)
+- Prototipo en Figma: [P1 Aprende Fácil – Prototipo Sala de Internet CLENA](https://www.figma.com/design/OvTH32MdQKZmG00Z6fHOqb/P1-Aprende-F%C3%A1cil-%E2%80%93-Prototipo-Sala-de-Internet-CLENA?node-id=0-1)
 - Aplicación desplegada: _Pendiente (si ya existe)_
 
 ## Contenido de la carpeta
@@ -24,7 +24,7 @@
 
 | Integrante | Rol | Aportes |
 |---|---|---|
-| Jose Mercado | Product Owner | acta del 24/10, HU-01 a HU-04, personas y estructura de la carpeta |
+| Jose Mercado | Product Owner | HU-01 a HU-04 y HU-10 a HU-13, personas, actas, prototipo en Figma y estructura de la carpeta |
 | Juan Pablo Villalba | Scrum Master | _Pendiente_ |
-| Jesús Arteaga | Development Team | _Pendiente_ |
-| Carlos Salja | Development Team | _Pendiente_ |
+| Jesús Arteaga | Development Team | HU-05, HU-06 y HU-09 |
+| Carlos Salja | Development Team | HU-07 y HU-08 |
