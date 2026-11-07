@@ -1,5 +1,9 @@
 # Visita CLENA
 
+## Entrega 1 — Levantamiento y diseño
+
+La Entrega 1 (proyecto P1, Plataforma de autoaprendizaje digital) está en la carpeta [`entrega-1/`](entrega-1/): personas, historias de usuario, prototipo en Figma, actas y evidencias de la alianza con el equipo de Backend.
+
 ## Integrantes
 | Nombre | Rol |
 |---|---|
@@ -19,3 +23,4 @@
 - `propuesta/` propuesta de solución
 - `docs/` Sprint Planning, Daily Scrum, Sprint Review, Sprint Retrospective
 - `evidencias.md` enlaces a las fotografías de la visita y evidencias de Scrum
+- [`entrega-1/`](entrega-1/) Entrega 1: levantamiento de requisitos, prototipo y alianza con el equipo de Backend
