@@ -19,57 +19,54 @@ Cada pantalla indica en su nombre la historia de usuario que cubre.
 ### Escritorio (computadores de la sala)
 
 **HU-01 · HU-04 · HU-10 Inicio – Elegir tema**
-![Inicio](img/01-inicio.png)
+<img src="img/01-inicio.png" alt="Inicio" width="560">
 
 **HU-01 Guías de Correo Gmail**
-![Guías de Correo Gmail](img/02-guias-correo.png)
+<img src="img/02-guias-correo.png" alt="Guías de Correo Gmail" width="560">
 
 **HU-02 · HU-03 Guía paso 1 de 4 – Redactar**
-![Paso 1](img/03-paso-1.png)
+<img src="img/03-paso-1.png" alt="Paso 1" width="560">
 
 **HU-02 · HU-03 Guía paso 2 de 4 – Para**
-![Paso 2](img/04-paso-2.png)
+<img src="img/04-paso-2.png" alt="Paso 2" width="560">
 
 **HU-02 · HU-03 Guía paso 3 de 4 – Adjuntar**
-![Paso 3](img/05-paso-3.png)
+<img src="img/05-paso-3.png" alt="Paso 3" width="560">
 
 **HU-02 · HU-03 Guía paso 4 de 4 – Enviar**
-![Paso 4](img/06-paso-4.png)
+<img src="img/06-paso-4.png" alt="Paso 4" width="560">
 
 **HU-11 Guía terminada – ¿Te sirvió?**
-![¿Te sirvió?](img/07-te-sirvio.png)
+<img src="img/07-te-sirvio.png" alt="¿Te sirvió?" width="560">
 
 **HU-12 Pedir ayuda a la asistente**
-![Pedir ayuda](img/08-pedir-ayuda.png)
+<img src="img/08-pedir-ayuda.png" alt="Pedir ayuda" width="560">
 
 **HU-12 Ayuda solicitada**
-![Ayuda solicitada](img/09-ayuda-solicitada.png)
+<img src="img/09-ayuda-solicitada.png" alt="Ayuda solicitada" width="560">
 
 **HU-13 Panel de la asistente – Dudas sin guía**
-![Panel de la asistente](img/10-panel-asistente.png)
+<img src="img/10-panel-asistente.png" alt="Panel de la asistente" width="560">
 
 ### Celular
 
 **HU-01 · HU-04 · HU-10 Inicio – Elegir tema · Celular**
-![Inicio celular](img/11-inicio-celular.png)
+<img src="img/11-inicio-celular.png" alt="Inicio celular" width="220">
 
 **HU-01 Guías de Correo Gmail · Celular**
-![Guías de correo celular](img/12-guias-correo-celular.png)
+<img src="img/12-guias-correo-celular.png" alt="Guías de correo celular" width="220">
 
 **HU-02 · HU-03 Guía pasos 1 a 4 · Celular**
-![Paso 1 celular](img/13-paso-1-celular.png)
-![Paso 2 celular](img/14-paso-2-celular.png)
-![Paso 3 celular](img/15-paso-3-celular.png)
-![Paso 4 celular](img/16-paso-4-celular.png)
+<img src="img/13-paso-1-celular.png" alt="Paso 1 celular" width="220"> <img src="img/14-paso-2-celular.png" alt="Paso 2 celular" width="220"> <img src="img/15-paso-3-celular.png" alt="Paso 3 celular" width="220"> <img src="img/16-paso-4-celular.png" alt="Paso 4 celular" width="220">
 
 **HU-11 Guía terminada – ¿Te sirvió? · Celular**
-![¿Te sirvió? celular](img/17-te-sirvio-celular.png)
+<img src="img/17-te-sirvio-celular.png" alt="¿Te sirvió? celular" width="220">
 
 **HU-12 Pedir ayuda a la asistente · Celular**
-![Pedir ayuda celular](img/18-pedir-ayuda-celular.png)
+<img src="img/18-pedir-ayuda-celular.png" alt="Pedir ayuda celular" width="220">
 
 **HU-12 Ayuda solicitada · Celular**
-![Ayuda solicitada celular](img/19-ayuda-solicitada-celular.png)
+<img src="img/19-ayuda-solicitada-celular.png" alt="Ayuda solicitada celular" width="220">
 
 ## Comparación con lo construido por Backend
 
