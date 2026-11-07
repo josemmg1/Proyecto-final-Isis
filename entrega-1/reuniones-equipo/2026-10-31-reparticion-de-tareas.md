@@ -20,8 +20,8 @@
 Cada integrante redacta sus historias de usuario y las registra como Issues en el repositorio del equipo de Backend, con la etiqueta `historia-usuario`, antes de la próxima reunión con Backend.
 
 - **Jose Mercado:** HU-01 a HU-04 (ya registradas)
-- **Juan Pablo Villalba:** HU-05 a HU-07
-- **Jesús Arteaga:** HU-08 a HU-10
-- **Carlos Salja:** HU-11 a HU-14
+- **Jesús Arteaga:** HU-05 a HU-07
+- **Carlos Salja:** HU-08 a HU-10
+- **Juan Pablo Villalba:** HU-11 a HU-14
 
 **Fecha límite:** 2 de noviembre de 2026.
