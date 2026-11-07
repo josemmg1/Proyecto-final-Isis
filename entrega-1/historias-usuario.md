@@ -27,3 +27,5 @@ Formato de cada historia:
 | HU-13 | Ver las dudas que todavía no tienen guía | Debe tener | 8 | Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/19) |
 
 Resumen de prioridades: 9 «Debe tener», 2 «Debería tener» y 2 «Podría tener».
+
+Los puntos los estimó el equipo de Backend en la Sprint Review 1 (7 de noviembre de 2026), con la escala 1, 2, 3, 5, 8, 13. Total: 75 puntos.
