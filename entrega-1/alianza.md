@@ -20,8 +20,8 @@ Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 
 | Historia | Estado |
 |---|---|
-| HU-01 Pantalla de inicio con categorías | In Progress |
-| HU-02 Seguir una guía paso a paso | To Do |
+| HU-01 Pantalla de inicio con categorías | Done |
+| HU-02 Seguir una guía paso a paso | Done |
 | HU-03 Enviar una foto por correo | Backlog |
 | HU-04 Que la gente resuelva sola lo básico | Backlog |
 | HU-06 Guía para imprimir documentos | Backlog |
