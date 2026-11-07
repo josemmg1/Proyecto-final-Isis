@@ -6,9 +6,13 @@ _Captura del tablero de GitHub Projects del equipo de Backend con las historias 
 
 ## Sprint Review
 
-- Fecha:
-- Enlace a la grabación:
-- Retroalimentación dada:
+- **Fecha:** 7 de noviembre de 2026, 4:12 p. m. (Sprint Review 1)
+- **Enlace a la grabación:** [Ver grabación](https://teams.microsoft.com/l/chat/19%3Ameeting_ZGRiNjI4MmQtNDE5ZS00MWZiLWFjNmItMmU5YzZjOWFlZTE5%40thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
+- **Acta:** [2026-11-07-sprint-review-1.md](actas/2026-11-07-sprint-review-1.md)
+- **Retroalimentación dada:**
+  - El incremento sigue el diseño del prototipo (colores y estructura), así que no se pidieron cambios de diseño.
+  - Se propuso adelantar primero las historias que son guías paso a paso, por ser las más simples, antes del 10 de noviembre.
+  - Se acordó la versión de administrador para la monitora de la sala, para modificar guías y ver las sugerencias y guías que hacen falta.
 
 ## Issues de feedback
 
