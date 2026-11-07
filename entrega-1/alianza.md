@@ -7,7 +7,7 @@ _Captura del tablero de GitHub Projects del equipo de Backend con las historias 
 ## Sprint Review
 
 - **Fecha:** 7 de noviembre de 2026, 4:12 p. m. (Sprint Review 1)
-- **Enlace a la grabación:** [Ver grabación](https://teams.microsoft.com/l/chat/19%3Ameeting_ZGRiNjI4MmQtNDE5ZS00MWZiLWFjNmItMmU5YzZjOWFlZTE5%40thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
+- **Enlace a la grabación:** [Ver grabación](https://uninorte-my.sharepoint.com/personal/fernandezjose_uninorte_edu_co/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffernandezjose%5Funinorte%5Fedu%5Fco%2FDocuments%2FGrabaciones%2FPlataforma%20de%20aprendizaje%20Sprint%20Review%201%2D20261107%5F161252%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4)
 - **Acta:** [2026-11-07-sprint-review-1.md](actas/2026-11-07-sprint-review-1.md)
 - **Retroalimentación dada:**
   - El incremento sigue el diseño del prototipo (colores y estructura), así que no se pidieron cambios de diseño.

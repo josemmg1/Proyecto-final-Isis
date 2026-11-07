@@ -2,7 +2,7 @@
 
 - **Fecha:** 7 de noviembre de 2026, 4:12 p. m. (hora de Colombia)
 - **Medio:** videollamada en Microsoft Teams, organizada y grabada por José David Martínez Fernández
-- **Grabación:** [Ver grabación](https://teams.microsoft.com/l/chat/19%3Ameeting_ZGRiNjI4MmQtNDE5ZS00MWZiLWFjNmItMmU5YzZjOWFlZTE5%40thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
+- **Grabación:** [Ver grabación](https://uninorte-my.sharepoint.com/personal/fernandezjose_uninorte_edu_co/_layouts/15/stream.aspx?id=%2Fpersonal%2Ffernandezjose%5Funinorte%5Fedu%5Fco%2FDocuments%2FGrabaciones%2FPlataforma%20de%20aprendizaje%20Sprint%20Review%201%2D20261107%5F161252%2DGrabaci%C3%B3n%20de%20la%20reuni%C3%B3n%2Emp4)
 
 ## Asistentes
 
