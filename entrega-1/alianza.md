@@ -26,7 +26,8 @@ Tablero de GitHub Projects del equipo de Backend con las 13 historias priorizada
 
 Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 
-- _Enlace al Issue — historia revisada_
+- [#25](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/25) — HU-01 Pantalla de inicio con categorías: se cumplen los criterios (Jose Mercado)
+- [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26) — HU-10 Buscar una guía: el buscador se ve pero todavía no funciona (Jose Mercado)
 
 ## Estado de avance de las historias «Debe tener»
 
