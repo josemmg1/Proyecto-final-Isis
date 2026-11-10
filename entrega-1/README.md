@@ -27,4 +27,4 @@
 | Jose Mercado | Product Owner | HU-01 a HU-04 y HU-10 a HU-13, personas, actas, prototipo en Figma y estructura de la carpeta |
 | Jesús Arteaga | Scrum Master| HU-05, HU-06 y HU-09 |
 | Juan Pablo Villalba | Development Team  | _Pendiente_ |
-| Carlos Salja | Development Team | HU-07 y HU-08 |
+| Carlos Salja | Development Team | HU-07, HU-08 y HU-14 |
