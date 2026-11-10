@@ -8,7 +8,7 @@
 
 - Repositorio del equipo de Backend: [JoseD2021/PlataformaAutoaprendizaje](https://github.com/JoseD2021/PlataformaAutoaprendizaje)
 - Prototipo en Figma: [P1 Aprende Fácil – Prototipo Sala de Internet CLENA](https://www.figma.com/design/OvTH32MdQKZmG00Z6fHOqb/P1-Aprende-F%C3%A1cil-%E2%80%93-Prototipo-Sala-de-Internet-CLENA?node-id=0-1)
-- Aplicación desplegada: _Pendiente (si ya existe)_
+- Aplicación desplegada: todavía no está desplegada públicamente. Por ahora se ejecuta en local con Docker, siguiendo las instrucciones del [README del repositorio de Backend](https://github.com/JoseD2021/PlataformaAutoaprendizaje#readme); el frontend queda en http://localhost:8080.
 
 ## Contenido de la carpeta
 
