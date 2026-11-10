@@ -86,7 +86,6 @@ A la izquierda, el prototipo en Figma; a la derecha, la pantalla construida por 
 
 ### Diferencias que deben corregirse
 
-- **Falta el botón «Letra más grande».** En el prototipo está en el encabezado; en la demo su lugar lo ocupa «Iniciar sesión». Es importante porque dos de cada tres usuarios de la sala son adultos mayores.
 - **El buscador no tiene etiqueta visible.** En el prototipo dice «Buscar una guía» encima del campo; en la demo solo está el texto de ejemplo dentro del campo, que desaparece al escribir. La guía de accesibilidad pide etiquetas en los formularios.
 - **El buscador todavía no funciona** (ver el Issue de feedback [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26)).
 - **Falta el texto de apoyo** «Te mostramos cada paso con dibujos, a tu ritmo.», que en el prototipo le da confianza al usuario.
