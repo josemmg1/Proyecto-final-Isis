@@ -91,6 +91,4 @@ A la izquierda, el prototipo en Figma; a la derecha, la pantalla construida por 
 - **Falta el texto de apoyo** «Te mostramos cada paso con dibujos, a tu ritmo.», que en el prototipo le da confianza al usuario.
 - **Aún no hay versión para celular**, que en el prototipo sí existe para todas las pantallas del público.
 
-### Ajuste a partir de la visita de validación
 
-En la visita del 9 de noviembre, la monitora indicó que las dudas más frecuentes son los programas de Office y abrir WhatsApp. Tanto el prototipo como la demo muestran Correo Gmail como «El tema más pedido», así que esa sección debería destacar Documentos o WhatsApp en una próxima versión.
