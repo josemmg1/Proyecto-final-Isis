@@ -30,6 +30,8 @@ Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 - [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26) — HU-10 Buscar una guía: el buscador se ve pero todavía no funciona (Jose Mercado)
 - [#28](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/28) — HU-06 Guía para imprimir documentos: no hay una guía de impresión paso a paso (Jesús Arteaga)
 - [#29](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/29) — HU-04 Que la gente resuelva sola lo básico: la sección de preguntas frecuentes permite llegar a las guías (Jesús Arteaga)
+- [#36](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/36) — HU-02 Seguir una guía paso a paso: se cumplen los criterios (Carlos Salja)
+- [#37](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/37) — HU-03 Enviar una foto por correo: la guía no muestra el aviso de enviado ni la carpeta «Enviados» (Carlos Salja)
 
 ## Estado de avance de las historias «Debe tener»
 

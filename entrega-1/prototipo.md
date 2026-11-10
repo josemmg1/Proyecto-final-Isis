@@ -70,4 +70,28 @@ Cada pantalla indica en su nombre la historia de usuario que cubre.
 
 ## Comparación con lo construido por Backend
 
-_Pendiente: comparar una pantalla del prototipo con la que construyó el equipo de Backend y anotar las diferencias que deban corregirse._
+Pantalla comparada: **HU-01 · HU-04 · HU-10 Inicio – Elegir tema**, en la versión de escritorio. Captura de la demo tomada el 8 de noviembre de 2026.
+
+<img src="img/01-inicio.png" alt="Inicio en el prototipo" width="420"> <img src="img/demo-inicio.png" alt="Inicio construido por Backend" width="420">
+
+A la izquierda, el prototipo en Figma; a la derecha, la pantalla construida por el equipo de Backend.
+
+### Lo que coincide
+
+- Los colores (amarillo, verde oscuro y la franja roja y blanca) y la estructura general de la página.
+- El encabezado con el nombre «Aprende Fácil» y el botón «Pedir ayuda».
+- La pregunta «¿Qué quieres aprender hoy?» con el buscador y el ejemplo «adjuntar una foto».
+- La sección «El tema más pedido en la sala» con acceso directo a las guías de Correo Gmail.
+- Los demás temas (Documentos, Redes sociales, Seguridad en internet y Trámites en línea) con su ícono y una descripción corta.
+
+### Diferencias que deben corregirse
+
+- **Falta el botón «Letra más grande».** En el prototipo está en el encabezado; en la demo su lugar lo ocupa «Iniciar sesión». Es importante porque dos de cada tres usuarios de la sala son adultos mayores.
+- **El buscador no tiene etiqueta visible.** En el prototipo dice «Buscar una guía» encima del campo; en la demo solo está el texto de ejemplo dentro del campo, que desaparece al escribir. La guía de accesibilidad pide etiquetas en los formularios.
+- **El buscador todavía no funciona** (ver el Issue de feedback [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26)).
+- **Falta el texto de apoyo** «Te mostramos cada paso con dibujos, a tu ritmo.», que en el prototipo le da confianza al usuario.
+- **Aún no hay versión para celular**, que en el prototipo sí existe para todas las pantallas del público.
+
+### Ajuste a partir de la visita de validación
+
+En la visita del 9 de noviembre, la monitora indicó que las dudas más frecuentes son los programas de Office y abrir WhatsApp. Tanto el prototipo como la demo muestran Correo Gmail como «El tema más pedido», así que esa sección debería destacar Documentos o WhatsApp en una próxima versión.
