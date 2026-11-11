@@ -87,7 +87,7 @@ A la izquierda, el prototipo en Figma; a la derecha, la pantalla construida por 
 ### Diferencias que deben corregirse
 
 - **El buscador no tiene etiqueta visible.** En el prototipo dice «Buscar una guía» encima del campo; en la demo solo está el texto de ejemplo dentro del campo, que desaparece al escribir. La guía de accesibilidad pide etiquetas en los formularios.
-- **El buscador todavía no funciona** (ver el Issue de feedback [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26)).
+- ~~El buscador todavía no funciona~~ (Issue de feedback [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26)). **Corregido:** el 10 de noviembre el equipo de Backend informó que el buscador ya funciona con las guías disponibles.
 - **Falta el texto de apoyo** «Te mostramos cada paso con dibujos, a tu ritmo.», que en el prototipo le da confianza al usuario.
 - **Aún no hay versión para celular**, que en el prototipo sí existe para todas las pantallas del público.
 
