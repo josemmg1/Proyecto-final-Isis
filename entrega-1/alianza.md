@@ -60,4 +60,4 @@ Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 | HU-13 Ver las dudas que todavía no tienen guía | Backlog |
 | HU-14 Aprender a usar Word y Excel | Backlog |
 
-Estado tomado del tablero de GitHub Projects del equipo de Backend el 7 de noviembre de 2026. En la Sprint Review 2 (10 de noviembre), Backend mostró funcionando además el buscador (HU-10) y la guía de impresión (HU-06).
+Estado tomado del tablero de GitHub Projects del equipo de Backend el 10 de noviembre de 2026, después de la Sprint Review 2: 6 de las 10 historias «Debe tener» están en Done.
