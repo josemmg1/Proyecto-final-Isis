@@ -51,11 +51,11 @@ Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 |---|---|
 | HU-01 Pantalla de inicio con categorías | Done |
 | HU-02 Seguir una guía paso a paso | Done |
-| HU-03 Enviar una foto por correo | Backlog |
+| HU-03 Enviar una foto por correo | Done |
 | HU-04 Que la gente resuelva sola lo básico | Backlog |
-| HU-06 Guía para imprimir documentos | Backlog |
-| HU-08 Ver el horario y las normas de la sala | Backlog |
-| HU-10 Buscar una guía | Backlog |
+| HU-06 Guía para imprimir documentos | Done |
+| HU-08 Ver el horario y las normas de la sala | Done |
+| HU-10 Buscar una guía | Done |
 | HU-12 Pedir ayuda a la asistente | Backlog |
 | HU-13 Ver las dudas que todavía no tienen guía | Backlog |
 | HU-14 Aprender a usar Word y Excel | Backlog |
