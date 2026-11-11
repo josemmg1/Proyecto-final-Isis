@@ -2,7 +2,7 @@
 
 ## Backlog validado
 
-Tablero de GitHub Projects del equipo de Backend con las 13 historias priorizadas y estimadas (7 de noviembre de 2026). En cada tarjeta se ve la prioridad y los puntos:
+Tablero de GitHub Projects del equipo de Backend con las historias HU-01 a HU-13 priorizadas y estimadas (7 de noviembre de 2026). La HU-14 se agregó después, el 9 de noviembre. En cada tarjeta se ve la prioridad y los puntos:
 
 - **P0** = Debe tener
 - **P1** = Debería tener
@@ -27,7 +27,7 @@ Tablero de GitHub Projects del equipo de Backend con las 13 historias priorizada
 Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 
 - [#25](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/25) — HU-01 Pantalla de inicio con categorías: se cumplen los criterios (Jose Mercado)
-- [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26) — HU-10 Buscar una guía: el buscador se ve pero todavía no funciona (Jose Mercado)
+- [#26](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/26) — HU-10 Buscar una guía: el buscador se ve pero todavía no funciona (Jose Mercado). Corregido por Backend el 10 de noviembre.
 - [#28](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/28) — HU-06 Guía para imprimir documentos: no hay una guía de impresión paso a paso (Jesús Arteaga)
 - [#29](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/29) — HU-04 Que la gente resuelva sola lo básico: la sección de preguntas frecuentes permite llegar a las guías (Jesús Arteaga)
 - [#36](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/36) — HU-02 Seguir una guía paso a paso: se cumplen los criterios (Carlos Salja)
@@ -46,5 +46,6 @@ Issues registrados con la etiqueta `feedback-cliente` (mínimo 5).
 | HU-10 Buscar una guía | Backlog |
 | HU-12 Pedir ayuda a la asistente | Backlog |
 | HU-13 Ver las dudas que todavía no tienen guía | Backlog |
+| HU-14 Aprender a usar Word y Excel | Backlog |
 
 Estado tomado del tablero de GitHub Projects del equipo de Backend el 7 de noviembre de 2026.

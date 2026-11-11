@@ -9,7 +9,7 @@ Tipos de usuario de la Sala de Internet del CLENA, basados en lo observado en la
 - **Comodidad con la tecnología:** baja. Sabe prender el computador y abrir el navegador, pero se pierde cuando tiene que entrar al correo o adjuntar algo.
 - **Qué le frustra hoy:** tener que llamar a la asistente cada vez que se le olvida un paso, y verla ocupada con otras personas. Le da pena preguntar lo mismo varias veces.
 - **Qué necesita lograr:** entrar a su correo, ver las fotos y responder con una foto suya sin depender de nadie.
-- **Historias relacionadas:** HU-01, HU-02, HU-03, HU-10, HU-12
+- **Historias relacionadas:** HU-01, HU-02, HU-03, HU-10, HU-12, HU-14
 - **Evidencia de la visita:** usuarios de la sala de internet en los computadores; en primer plano, un adulto mayor usando el computador por su cuenta. Foto tomada en la visita de validación del 9 de noviembre de 2026 (rostros difuminados).
 
 <img src="img/sala-computadores.jpg" alt="Usuarios de la sala de internet del CLENA usando los computadores" width="560">
