@@ -25,8 +25,8 @@ Formato de cada historia:
 | HU-11 | Decir si la guía me sirvió | Debería tener | 5 | Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/17) |
 | HU-12 | Pedir ayuda a la asistente | Debe tener | 5 | Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/18) |
 | HU-13 | Ver las dudas que todavía no tienen guía | Debe tener | 8 | Jose Mercado | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/19) |
-| HU-14 | Aprender a usar Word y Excel | Debe tener |3 | Carlos Salja | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/39) |
+| HU-14 | Aprender a usar Word y Excel | Debe tener | 3 | Carlos Salja | [ver issue](https://github.com/JoseD2021/PlataformaAutoaprendizaje/issues/39) |
 
 Resumen de prioridades: 10 «Debe tener», 2 «Debería tener» y 2 «Podría tener».
 
-Los puntos los estimó el equipo de Backend en la Sprint Review 1 (7 de noviembre de 2026), con la escala 1, 2, 3, 5, 8, 13: 75 puntos entre la HU-01 y la HU-13. La HU-14 se agregó el 9 de noviembre, después de la visita de validación al CLENA, y es para la entrega final; su estimación queda para el siguiente sprint.
+Los puntos los estimó el equipo de Backend en la Sprint Review 1 (7 de noviembre de 2026), con la escala 1, 2, 3, 5, 8, 13. La HU-14 se agregó el 9 de noviembre, después de la visita de validación al CLENA, y Backend la estimó en la Sprint Review 2 (10 de noviembre). Total: 78 puntos.
